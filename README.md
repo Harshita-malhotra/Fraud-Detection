@@ -41,3 +41,9 @@ The models were evaluated using:
 
 ## Conclusion
 This project demonstrates how machine learning can be used to identify fraudulent transactions and analyze transaction behavior patterns effectively.
+
+
+## Dataset
+
+Dataset used in this project:
+- https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
